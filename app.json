@@ -1,6 +1,6 @@
 {
-  "name": "JMTHON",
-  "description": "مرحبا بكم في سورس جمثون | @JMTHON",
+  "name": "MATRIX",
+  "description": "مرحبا بكم في سورس ماتركس | @JMTHON",
   "logo": "",
   "keywords": [
     "plugin",
@@ -62,7 +62,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره",
-      "value": "jmthon-ar",
+      "value": "MATRIX",
       "required": true
     }
   },
