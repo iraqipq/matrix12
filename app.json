@@ -46,7 +46,7 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "هنا ضع ايبي كي هيروكو",
+      "description": "هنا ضع ايبي كي هيروكو https://dashboard.heroku.com/account",
       "value": "",
       "required": true
     },
